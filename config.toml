@@ -1,0 +1,4 @@
+baseURL = "https://resepmasakansederhana.vercel.app"
+languageCode = "en-us"
+title = "Masakan Indonesia"
+theme = "z"
